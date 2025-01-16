@@ -1,5 +1,5 @@
 <?php
-namespace App\Maths;
+namespace App\Src;
 
 use InvalidArgumentException;
 
